@@ -5,10 +5,8 @@
       "name": "Consumer Audio",
       "version": "1.1.1",
       "url": "https://github.com/beEmbedded/beHydra-Modules-Firmware/releases/download/consumer.audio.1.1.1/ConsumerAudio.1.1.1.bin",
-      "hash": { "algorithm": "sha256", "value": "…" },
+      "hash": { "algorithm": "sha256", "value": "<real hash here>" },
       "size": 524288
-    },
-    "pro-audio":     { "name": "Pro Audio",     "version": "…", "url": "…", "hash": { … }, "size": 0 },
-    "digital-audio": { "name": "Digital Audio", "version": "…", "url": "…", "hash": { … }, "size": 0 }
+    }
   }
 }

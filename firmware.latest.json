@@ -1,10 +1,14 @@
-"modules": {
-   "0": {
-     "name": "Consumer Audio",
-     "version": "1.1.0",
-     "url": "https://github.com/beEmbedded/beHydra_Releases/releases/download/behydra-firmware-v1.0.0/Consumer.Audio.1.0.0.Firmware.bin",
-     "sha256": "f69a8905c3a4ccd3050a74bddeebe7887f5c8be94453e52c00ec6818d333d22c",
-     "size": 2219KB
-   }
- }
+{
+  "formatVersion": 1,
+  "modules": {
+    "consumer-audio": {
+      "name": "Consumer Audio",
+      "version": "1.1.1",
+      "url": "https://github.com/beEmbedded/beHydra-Modules-Firmware/releases/download/consumer.audio.1.1.1/ConsumerAudio.1.1.1.bin",
+      "hash": { "algorithm": "sha256", "value": "…" },
+      "size": 524288
+    },
+    "pro-audio":     { "name": "Pro Audio",     "version": "…", "url": "…", "hash": { … }, "size": 0 },
+    "digital-audio": { "name": "Digital Audio", "version": "…", "url": "…", "hash": { … }, "size": 0 }
+  }
 }

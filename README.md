@@ -4,4 +4,4 @@ Official downloads for beHydra modules' firmware. Source is closed; this repo ho
 
 | Module | Latest Version | Download |
 |-----------|----------------|----------|
-| Consumer Audio       | v1.1.1         | [Download](https://github.com/beEmbedded/beHydra-Modules-Firmware/releases/download/consumer.audio.1.1.1/ConsumerAudio.1.1.1.bin) |
+| Consumer Audio       | v1.1.0         | [Download](https://github.com/beEmbedded/beHydra-Modules-Firmware/releases/download/consumer.audio.1.1.0/ConsumerAudio.1.1.0.bin) |

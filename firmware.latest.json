@@ -1,0 +1,10 @@
+"modules": {
+   "0": {
+     "name": "Consumer Audio",
+     "version": "1.1.0",
+     "url": "https://github.com/beEmbedded/beHydra_Releases/releases/download/behydra-firmware-v1.0.0/Consumer.Audio.1.0.0.Firmware.bin",
+     "sha256": "f69a8905c3a4ccd3050a74bddeebe7887f5c8be94453e52c00ec6818d333d22c",
+     "size": 2219KB
+   }
+ }
+}
